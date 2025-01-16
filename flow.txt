@@ -1,0 +1,14 @@
+> npm init -y
+creates package.json file
+
+> npm install --save express socket.io
+add express and socket.io library
+
+> npm install --save-dev nodemon
+ nodemon restarts application as soon as it sees changes in our files
+
+create app.js file
+
+
+> mkdir public
+create a public folder
